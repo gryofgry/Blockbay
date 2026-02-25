@@ -1,26 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 60">
-  <!-- Block grid icon: subtle 'bb' letterform -->
-  <!-- First 'b': stem (col 0) + bump (cols 1-2) -->
-  <!-- Row 1: stems only (ascenders) -->
-  <rect x="4" y="8" width="11" height="11" rx="1.5" fill="#3B82F6"/>
-  <rect x="43" y="8" width="11" height="11" rx="1.5" fill="#818CF8"/>
-  <!-- Row 2: stems + bump tops -->
-  <rect x="4" y="21" width="11" height="11" rx="1.5" fill="#2563EB"/>
-  <rect x="17" y="21" width="11" height="11" rx="1.5" fill="#60A5FA"/>
-  <rect x="43" y="21" width="11" height="11" rx="1.5" fill="#7C3AED"/>
-  <rect x="56" y="21" width="11" height="11" rx="1.5" fill="#3B82F6"/>
-  <!-- Row 3: stems + bump right sides -->
-  <rect x="4" y="34" width="11" height="11" rx="1.5" fill="#818CF8"/>
-  <rect x="30" y="34" width="11" height="11" rx="1.5" fill="#3B82F6"/>
-  <rect x="43" y="34" width="11" height="11" rx="1.5" fill="#2563EB"/>
-  <rect x="69" y="34" width="11" height="11" rx="1.5" fill="#60A5FA"/>
-  <!-- Row 4: stems + bump bottoms -->
-  <rect x="4" y="47" width="11" height="11" rx="1.5" fill="#60A5FA"/>
-  <rect x="17" y="47" width="11" height="11" rx="1.5" fill="#7C3AED"/>
-  <rect x="43" y="47" width="11" height="11" rx="1.5" fill="#3B82F6"/>
-  <rect x="56" y="47" width="11" height="11" rx="1.5" fill="#818CF8"/>
+  <!-- Block grid icon (from logo-icon.svg) -->
+  <!-- Row 1 -->
+  <rect x="4" y="4" width="12" height="12" rx="2" fill="#3B82F6"/>
+  <rect x="18" y="4" width="12" height="12" rx="2" fill="#60A5FA"/>
+  <rect x="32" y="4" width="12" height="12" rx="2" fill="#818CF8"/>
+  <!-- Row 2 -->
+  <rect x="4" y="18" width="12" height="12" rx="2" fill="#2563EB"/>
+  <rect x="18" y="18" width="12" height="12" rx="2" fill="#7C3AED"/>
+  <rect x="32" y="18" width="12" height="12" rx="2" fill="#3B82F6"/>
+  <rect x="46" y="18" width="12" height="12" rx="2" fill="#60A5FA"/>
+  <!-- Row 3 -->
+  <rect x="4" y="32" width="12" height="12" rx="2" fill="#818CF8"/>
+  <rect x="18" y="32" width="12" height="12" rx="2" fill="#3B82F6"/>
+  <rect x="32" y="32" width="12" height="12" rx="2" fill="#2563EB"/>
+  <!-- Row 4 -->
+  <rect x="18" y="46" width="12" height="12" rx="2" fill="#60A5FA"/>
+  <rect x="32" y="46" width="12" height="12" rx="2" fill="#7C3AED"/>
   <!-- BLOCKBAY text -->
-  <text x="88" y="34" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="900" fill="#4338CA" letter-spacing="4.5">BLOCKBAY</text>
+  <text x="72" y="34" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="900" fill="#4338CA" letter-spacing="4.5">BLOCKBAY</text>
   <!-- CONSULTING GROUP text -->
-  <text x="89" y="50" font-family="'Arial', 'Helvetica Neue', sans-serif" font-size="11.5" fill="#64748B" letter-spacing="5.5">CONSULTING GROUP</text>
+  <text x="73" y="50" font-family="'Arial', 'Helvetica Neue', sans-serif" font-size="11.5" fill="#64748B" letter-spacing="5.5">CONSULTING GROUP</text>
 </svg>
