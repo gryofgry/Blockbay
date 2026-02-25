@@ -1,19 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
-  <defs>
-    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#60A5FA"/>
-      <stop offset="100%" style="stop-color:#818CF8"/>
-    </linearGradient>
-    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3B82F6"/>
-      <stop offset="100%" style="stop-color:#7C3AED"/>
-    </linearGradient>
-    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2563EB"/>
-      <stop offset="100%" style="stop-color:#6D28D9"/>
-    </linearGradient>
-  </defs>
-  <path d="M4 12 L22 12 L34 30 L22 48 L4 48 L16 30 Z" fill="url(#g1)" opacity="0.6"/>
-  <path d="M14 12 L32 12 L44 30 L32 48 L14 48 L26 30 Z" fill="url(#g2)" opacity="0.75"/>
-  <path d="M24 12 L42 12 L54 30 L42 48 L24 48 L36 30 Z" fill="url(#g3)" opacity="0.9"/>
+  <!-- Row 1 -->
+  <rect x="4" y="4" width="12" height="12" rx="2" fill="#3B82F6"/>
+  <rect x="18" y="4" width="12" height="12" rx="2" fill="#60A5FA"/>
+  <rect x="32" y="4" width="12" height="12" rx="2" fill="#818CF8"/>
+  <!-- Row 2 -->
+  <rect x="4" y="18" width="12" height="12" rx="2" fill="#2563EB"/>
+  <rect x="18" y="18" width="12" height="12" rx="2" fill="#7C3AED"/>
+  <rect x="32" y="18" width="12" height="12" rx="2" fill="#3B82F6"/>
+  <rect x="46" y="18" width="12" height="12" rx="2" fill="#60A5FA"/>
+  <!-- Row 3 -->
+  <rect x="4" y="32" width="12" height="12" rx="2" fill="#818CF8"/>
+  <rect x="18" y="32" width="12" height="12" rx="2" fill="#3B82F6"/>
+  <rect x="32" y="32" width="12" height="12" rx="2" fill="#2563EB"/>
+  <!-- Row 4 -->
+  <rect x="18" y="46" width="12" height="12" rx="2" fill="#60A5FA"/>
+  <rect x="32" y="46" width="12" height="12" rx="2" fill="#7C3AED"/>
 </svg>
