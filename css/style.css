@@ -236,7 +236,7 @@ section {
 
 /* Nav CTA button */
 .nav-cta {
-  padding: 0.5rem 1.75rem;
+  padding: 0.5rem 2.5rem;
   background: var(--gradient-brand);
   color: var(--white) !important;
   border-radius: var(--radius-sm);
